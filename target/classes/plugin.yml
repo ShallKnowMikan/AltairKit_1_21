@@ -1,0 +1,3 @@
+name: AltairKit
+version: '1.21'
+main: org.mikan.altairkit.AltairKit
