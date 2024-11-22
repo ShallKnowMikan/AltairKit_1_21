@@ -1,6 +1,6 @@
 # AltairKit
 
-  This projet is meant to simplify minecraft plugin development.
+  This project is meant to simplify minecraft plugin development.
 
 
 # Installation
@@ -10,7 +10,7 @@
  2) Put the AltairBuilder and the jar in the same folder and then execute
     AltairBuilder.exe .
     
- 4) Once its done you will only have to put those dependencies in your maven
+ 4) Once it's done you will only have to put those dependencies in your maven
     configuration:
     ```xml
       <dependency>
